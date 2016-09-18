@@ -1,0 +1,17 @@
+codebook
+
+features	features of dataset
+activity_labels	activity labels
+X_test	X_test data
+y_test	y_test data
+subject_test	subject of test data
+X_train	X_train data
+y_train	y_train data
+subject_train	subject of train data
+joined_data	combine train data and test data
+joined_labels	combines labels of train data and test data
+joined_subjects	combines subjects of train data and test data
+means	means for each measurement
+std	standard deviation for each measurement
+merge	merge mean and standard deviation
+
