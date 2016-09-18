@@ -7,7 +7,7 @@ library(data.table)
 
 
 #load data#
-path <- setwd("~/Repositories/Getting-and-Cleaning-Data-Course-Project")
+path <- setwd("C:/2-R/getdata_projectfiles_UCI HAR Dataset")
 
 features <- read.table("./UCI HAR Dataset/features.txt")
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
